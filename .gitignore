@@ -1,0 +1,17 @@
+# MacOS .DS_Store
+**/.DS_Store
+*.pyc
+.idea/misc.xml
+
+
+# report or log
+reports/
+airtestTest/
+
+
+# node modules
+node_modules/
+.idea/
+.pytest_cache/
+.venv/
+
